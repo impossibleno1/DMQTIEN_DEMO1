@@ -272,7 +272,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			  </ul>
 			</li>
 			<li><a href="about.php">Về chúng tôi</a></li>
-			<li><a href="#">Delivery</a></li>
+			<li><a href="noiqui.php">Nội Quy</a></li>
 			<li><a href="faq.php">Faqs</a></li>
 			<li><a href="contact.php">Liên hệ</a></li>
 			<div class="clear"> </div>
