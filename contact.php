@@ -18,7 +18,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href='//fonts.googleapis.com/css?family=Doppio+One' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="js/move-top.js"></script>
-<script type="text/javascript" src="js/easing.js"></script> 
+<script type="text/javascript" src="js/easing.js"></script>
 </head>
 <body>
   <div class="wrap">
@@ -45,7 +45,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	     <div class="languages">
 	    	<div id="language" class="wrapper-dropdown" tabindex="1">EN
 						<strong class="opencart"> </strong>
-						<ul class="dropdown languges">					
+						<ul class="dropdown languges">
 							 <li>
 							 	<a href="#" title="Français">
 									<span><img src="images/gb.png" alt="en" width="26" height="26"></span><span class="lang">English</span>
@@ -70,7 +70,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<a href="#" title="Russian">
 								<span><img src="images/cu.png" alt="ru" width="26" height="26"></span><span class="lang">Russian</span>
 							</a>
-						</li>					
+						</li>
 				   </ul>
 		     </div>
 		     <script type="text/javascript">
@@ -85,7 +85,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					obj.dd.on('click', function(event){
 						$(this).toggleClass('active');
 						event.stopPropagation();
-					});	
+					});
 				}
 			}
 
@@ -122,7 +122,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					obj.dd.on('click', function(event){
 						$(this).toggleClass('active');
 						event.stopPropagation();
-					});	
+					});
 				}
 			}
 
@@ -155,24 +155,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<ul class="sub-menu list-unstyled">
 				 <div class="nag-mother-list">
 				   <div class="navg-drop-main">
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 1</a></li>
 						<li><a href="products.html">Product 2</a></li>
 						<li><a href="products.html">Product 3</a>
 						</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 1</a></li>
 						<li><a href="products.html">Product 2</a></li>
 						<li><a href="products.html">Product 3</a>
 								</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 1</a></li>
 						<li><a href="products.html">Product 2</a></li>
 						<li><a href="products.html">Product 3</a></li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 1</a></li>
 						<li><a href="products.html">Product 2</a></li>
 						<li><a href="products.html">Product 3</a></li>
@@ -180,25 +180,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clear"> </div>
 				</div>
 				<div class="navg-drop-main">
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
-		
+
 						</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
 								</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
@@ -206,25 +206,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="clear"> </div>
 				 </div>
 				 <div class="navg-drop-main">
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
-		
+
 						</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
 								</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
@@ -234,42 +234,42 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 			</ul>
 			</li>
-			<li><a href="products.html">Top Brand</a>			
+			<li><a href="products.html">Top Brand</a>
 				<ul class="sub-menu list-unstyled sub-menu2">
 				  <div class="navg-drop-main">
-						<div class="nav-drop nav-top-brand"> 
+						<div class="nav-drop nav-top-brand">
 							<li><a href="products.html">Product 1</a></li>
 							<li><a href="products.html">Product 2</a></li>
-							<li><a href="products.html">Product 3</a></li>					
+							<li><a href="products.html">Product 3</a></li>
 							<li><a href="products.html">Product 4</a></li>
 						   <li><a href="products.html">Product 5</a></li>
 						   <li><a href="products.html">Product 6</a></li>
-						</div>								
+						</div>
 					</div>
 				</ul>
-			</li>		
+			</li>
 			<li><a href="faq.html">Services</a>
 				<ul class="sub-menu list-unstyled sub-menu3">
 				  <div class="navg-drop-main">
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
-		
+
 						</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a>
 								</li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
 					</div>
-					<div class="nav-drop"> 
+					<div class="nav-drop">
 						<li><a href="products.html">Product 4</a></li>
 						<li><a href="products.html">Product 5</a></li>
 						<li><a href="products.html">Product 6</a></li>
@@ -280,18 +280,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</li>
 			<li><a href="about.html">About</a></li>
 			<li><a href="#">Delivery</a></li>
-			<li><a href="faq.html">Faqs</a></li>
+			<li><a href="Promote.html">PROMOTE</a></li>
 			<li><a href="contact.html">CONTACT</a></li>
 			<div class="clear"> </div>
 		</ul>
-		</nav> 
+		</nav>
 		<script src="js/menu.js" type="text/javascript"></script>
 		</div>
  </div>
  <div class="main">
     <div class="content">
     	<div class="support">
-  			
+
     	<div class="section group">
 				<div class="col span_2_of_3">
 				  <div class="contact-form">
@@ -336,12 +336,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				   		<p>Follow on: <span><a href="#">Facebook</a></span>, <span><a href="#">Twitter</a></span></p>
 				   </div>
 				 </div>
-			  </div>    	
+			  </div>
     </div>
  </div>
 </div>
    <div class="footer">
-   	  <div class="wrapper">	
+   	  <div class="wrapper">
 	     <div class="section group">
 				<div class="col_1_of_4 span_1_of_4">
 						<h4>Information</h4>
@@ -403,15 +403,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	  			containerID: 'toTop', // fading element id
 				containerHoverID: 'toTopHover', // fading element hover id
 				scrollSpeed: 1200,
-				easingType: 'linear' 
+				easingType: 'linear'
 	 		};
 			*/
-			
+
 			$().UItoTop({ easingType: 'easeOutQuart' });
-			
+
 		});
 	</script>
     <a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
 </body>
 </html>
-
