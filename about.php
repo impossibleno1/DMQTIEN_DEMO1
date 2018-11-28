@@ -7,95 +7,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <?php
  include('header.php');
  ?>
- <div class="main">
-    <div class="content">
-    	<div class="section group">
-				<div class="col_1_of_3 span_1_of_3">
-					<h3>Who We Are</h3>
-					<img src="images/about-img.jpg" alt="" />
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-				</div>
-				<div class="col_1_of_3 span_1_of_3">
-					<h3>Our History</h3>
-				 <div class="history-desc">
-					<div class="year"><p>1998 -</p></div>
-					<p class="history">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-				 <div class="clear"></div>
-				</div>
-				 <div class="history-desc">
-					<div class="year"><p>2001 -</p></div>
-					<p class="history">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-				 <div class="clear"></div>
-				</div>
-				 <div class="history-desc">
-					<div class="year"><p>2006 -</p></div>
-					<p class="history">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-				 <div class="clear"></div>
-				</div>
-				 <div class="history-desc">
-					<div class="year"><p>2010 -</p></div>
-					<p class="history">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-				 <div class="clear"></div>
-				</div>
-				<div class="history-desc">
-					<div class="year"><p>2013 -</p></div>
-					<p class="history">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-				 <div class="clear"></div>
-				</div>
-			</div>
-				<div class="col_1_of_3 span_1_of_3">
-					<h3>Opportunities</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-				    <div class="list">
-					     <ul>
-					     	<li><a href="#">Text of the printing</a></li>
-					     	<li><a href="#">Lorem Ipsum has been the standard</a></li>
-					     	<li><a href="#">Dummy text ever since the 1500s</a></li>
-					     	<li><a href="#">Unknown printer took a galley</a></li>
-					     	<li><a href="#">Led it to make a type specimen</a></li>
-					     	<li><a href="#">Not only five centuries</a></li>
-					     	<li><a href="#">Electronic typesetting</a></li>
-					     	<li><a href="#">Unchanged. It was popularised</a></li>
-					     	<li><a href="#">Sheets containing Lorem Ipsume</a></li>
-					     </ul>
-					 </div>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-				</div>
-			</div>
-			<h2>OUR TEAM</h2>
-			<div class="section group">
-				<div class="grid_1_of_5 images_1_of_5">					
-					 <img src="images/team1.jpg" alt="" />
-					  <h3>Lorem Ipsum is simply </h3>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-				<div class="grid_1_of_5 images_1_of_5">
-					  <img src="images/team2.jpg" alt="" />
-					  <h3>Lorem Ipsum is simply </h3>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-				<div class="grid_1_of_5 images_1_of_5">
-					  <img src="images/team3.jpg" alt="" />
-					 <h3>Lorem Ipsum is simply </h3>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-				<div class="grid_1_of_5 images_1_of_5">
-					  <img src="images/team4.jpg" alt="" />
-					 <h3>Lorem Ipsum is simply </h3>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-				<div class="grid_1_of_5 images_1_of_5">
-					  <img src="images/team2.jpg" alt="" />
-					  <h3>Lorem Ipsum is simply </h3>
-					 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-			</div>
-    	<div>
-    </div>
+ <h1 style="text-align: center">GIỚI THIỆU VỀ CỬA HÀNG QUYẾT TIẾN</h1>
+ <span>
+ <div>
+ 	<a href="quyettien.com">Cửa hàng Quyết Tiến</a> được thành lập vào 12/2010, là chuỗi bán hàng điện máy <strong>lớn nhất cả nước</strong> với hơn 999 cửa hàng chi nhánh tại 63 tỉnh thành.
+ Với tầm nhìn chiến lược kinh doanh và những nỗ lực không ngừng , Quyết Tiến đã trở thành một trong những thương hiệu bán lẻ<strong> số 1 Việt Nam</strong>. Hàng hóa tại các <a href="quyettien.com"> cửa hàng Quyết Tiến</a> vô cùng đa dạng, từ các nhóm hàng lớn như<em>: Tivi, Tủ lạnh, Máy giặt, Máy lạnh</em>,... đến các nhóm hàng gia dụng như:<em> Nồi Cơm Điện, Bếp Ga, Bếp Điện Từ</em>,..<div>Với phương châm <strong>"Tất cả vì khách hàng"</strong> và định hướng tiến tới trong tương lai, <a href="quyettien.com">Quyết Tiến</a> luôn nổ lực không ngừng để cung cấp cho khách hàng những<strong> chất lượng tốt nhất</strong>. Sự tin tưởng và ủng hộ của khách hàng trong thời gian vừa qua là nguồn động viên to lớn trên bước đường phát triển của<a href="quyettien.com"> Quyết Tiến</a> chúng tôi.
  </div>
 </div>
-</div>
+<div><h2 style="text-align: center">TỔNG ĐÀI HỖ TRỢ KHÁCH HÀNG</h2>
+<ul style=”list-style-type: square;”>
+<li>Tổng đài bán hàng(24/7)<strong>: 1111.2222</strong></li>
+<li>Khiếu nại(24/7)<strong>; 1111.3333</strong></li>
+<li>Hỗ trợ khách hàng(24/7)<strong>: 1111.4444</strong></li>
+</ul>
+<img src="./images/123.jpg" height="500" width="1300">
 <?php
 	include('footer.php')
 ?>

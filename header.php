@@ -7,6 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
+<meta charset="UTF-8">	
 <title>Free Smart Store Website Template | Home :: w3layouts</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -18,6 +19,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script type="text/javascript" src="js/easing.js"></script>
 <link href='//fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Doppio+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 <body>
   <div class="wrap">
@@ -29,18 +31,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			  <div class="header_top_right">
 			    <div class="search_box">
 				    <form>
-				    	<input type="text" value="Search for Products" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search for Products';}"><input type="submit" value="SEARCH">
+				    	<input type="text" value="Tìm kiếm sản phẩm" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search for Products';}"><input type="submit" value="Tìm kiếm">
 				    </form>
 			    </div>
-			    <div class="shopping_cart">
-					<div class="cart">
-						<a href="#" title="View my shopping cart" rel="nofollow">
-							<strong class="opencart"> </strong>
-								<span class="cart_title">Cart</span>
-									<span class="no_product">(empty)</span>
-							</a>
-						</div>
-			      </div>
+			    
 	    <div class="languages" title="language">
 	    	<div id="language" class="wrapper-dropdown" tabindex="1">EN
 						<strong class="opencart"> </strong>
@@ -149,8 +143,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<a id="touch-menu" class="mobile-menu" href="#">Menu</a>
 		<nav>
 		<ul class="menu list-unstyled">
-			<li><a href="index.php">HOME</a></li>
-			<li class="activate"><a href="products.php">Products</a>
+			<li><a href="index.php">Trang chủ</a></li>
+			<li class="activate"><a href="products.php">Sản phẩm</a>
 				<ul class="sub-menu list-unstyled">
 				 <div class="nag-mother-list">
 				   <div class="navg-drop-main">
@@ -247,7 +241,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</ul>
 			</li>		
-			<li><a href="faq.php">Services</a>
+			<li><a href="faq.php">Trả góp</a>
 				<ul class="sub-menu list-unstyled sub-menu3">
 				  <div class="navg-drop-main">
 					<div class="nav-drop"> 
@@ -277,10 +271,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				 </div>
 			  </ul>
 			</li>
-			<li><a href="about.php">About</a></li>
+			<li><a href="about.php">Về chúng tôi</a></li>
 			<li><a href="#">Delivery</a></li>
 			<li><a href="faq.php">Faqs</a></li>
-			<li><a href="contact.php">CONTACT</a></li>
+			<li><a href="contact.php">Liên hệ</a></li>
 			<div class="clear"> </div>
 		</ul>
 		</nav> 
