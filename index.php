@@ -23,7 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			   </div>			
 				<div class="listview_1_of_2 images_1_of_2">
 					<div class="listimg listimg_2_of_1">
-						  <a href="preview-5.html"><img src="images/pic3.png" alt="" / ></a>
+						  <a href="preview-5.html"><img src="images/pic3.png" alt="" /></a>
 					</div>
 					<div class="text list_2_of_1">
 						  <h2>Samsung</h2>
