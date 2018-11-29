@@ -30,7 +30,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="header">
 		<div class="header_top">
 			<div class="logo">
-				<a href="index.html"><img src="images/logo.png" alt="" /></a>
+				<a href="index.png"><img src="images/logo.png" alt="" /></a>
 			</div>
 			  <div class="header_top_right">
 			    <div class="search_box">
@@ -145,7 +145,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</script>
    </div>
 		   <div class="login">
-		   	   <span><a href="login.html"><img src="images/login.png" alt="" title="login"/></a></span>
+		   	   <span><a href="login.php"><img src="images/login.png" alt="" title="login"/></a></span>
 		   </div>
 		 <div class="clear"></div>
 	   </div>
@@ -155,138 +155,138 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<a id="touch-menu" class="mobile-menu" href="#">Menu</a>
 		<nav>
 		<ul class="menu list-unstyled">
-			<li><a href="index.html">HOME</a></li>
-			<li class="activate"><a href="products.html">Products</a>
+			<li><a href="index.php">HOME</a></li>
+			<li class="activate"><a href="products.php">Products</a>
 				<ul class="sub-menu list-unstyled">
 				 <div class="nag-mother-list">
 				   <div class="navg-drop-main">
 					<div class="nav-drop">
-						<li><a href="products.html">Product 1</a></li>
-						<li><a href="products.html">Product 2</a></li>
-						<li><a href="products.html">Product 3</a>
+						<li><a href="products.php">Product 1</a></li>
+						<li><a href="products.php">Product 2</a></li>
+						<li><a href="products.php">Product 3</a>
 						</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 1</a></li>
-						<li><a href="products.html">Product 2</a></li>
-						<li><a href="products.html">Product 3</a>
+						<li><a href="products.php">Product 1</a></li>
+						<li><a href="products.php">Product 2</a></li>
+						<li><a href="products.php">Product 3</a>
 								</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 1</a></li>
-						<li><a href="products.html">Product 2</a></li>
-						<li><a href="products.html">Product 3</a></li>
+						<li><a href="products.php">Product 1</a></li>
+						<li><a href="products.php">Product 2</a></li>
+						<li><a href="products.php">Product 3</a></li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 1</a></li>
-						<li><a href="products.html">Product 2</a></li>
-						<li><a href="products.html">Product 3</a></li>
+						<li><a href="products.php">Product 1</a></li>
+						<li><a href="products.php">Product 2</a></li>
+						<li><a href="products.php">Product 3</a></li>
 					</div>
 					<div class="clear"> </div>
 				</div>
 				<div class="navg-drop-main">
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 
 						</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 								</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="clear"> </div>
 				 </div>
 				 <div class="navg-drop-main">
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 
 						</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 								</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="clear"> </div>
 				 </div>
 				</div>
 			</ul>
 			</li>
-			<li><a href="products.html">Top Brand</a>
+			<li><a href="products.php">Top Brand</a>
 				<ul class="sub-menu list-unstyled sub-menu2">
 				  <div class="navg-drop-main">
 						<div class="nav-drop nav-top-brand">
-							<li><a href="products.html">Product 1</a></li>
-							<li><a href="products.html">Product 2</a></li>
-							<li><a href="products.html">Product 3</a></li>
-							<li><a href="products.html">Product 4</a></li>
-						   <li><a href="products.html">Product 5</a></li>
-						   <li><a href="products.html">Product 6</a></li>
+							<li><a href="products.php">Product 1</a></li>
+							<li><a href="products.php">Product 2</a></li>
+							<li><a href="products.php">Product 3</a></li>
+							<li><a href="products.php">Product 4</a></li>
+						   <li><a href="products.php">Product 5</a></li>
+						   <li><a href="products.php">Product 6</a></li>
 						</div>
 					</div>
 				</ul>
 			</li>
-			<li><a href="faq.html">Services</a>
+			<li><a href="faq.php">Services</a>
 				<ul class="sub-menu list-unstyled sub-menu3">
 				  <div class="navg-drop-main">
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 
 						</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a>
 								</li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="nav-drop">
-						<li><a href="products.html">Product 4</a></li>
-						<li><a href="products.html">Product 5</a></li>
-						<li><a href="products.html">Product 6</a></li>
+						<li><a href="products.php">Product 4</a></li>
+						<li><a href="products.php">Product 5</a></li>
+						<li><a href="products.php">Product 6</a></li>
 					</div>
 					<div class="clear"> </div>
 				 </div>
 			  </ul>
 			</li>
-			<li><a href="about.html">About</a></li>
+			<li><a href="about.php">About</a></li>
 			<li><a href="#">Delivery</a></li>
 			<li><a href="Promote.html">PROMOTE</a></li>
-			<li><a href="contact.html">CONTACT</a></li>
+			<li><a href="contact.php">CONTACT</a></li>
 			<div class="clear"> </div>
 		</ul>
 		</nav>
@@ -367,21 +367,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>Why buy from us</h4>
 						<ul>
-						<li><a href="about.html">About Us</a></li>
-						<li><a href="faq.html">Customer Service</a></li>
+						<li><a href="about.php">About Us</a></li>
+						<li><a href="faq.php">Customer Service</a></li>
 						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="contact.html"><span>Site Map</span></a></li>
-						<li><a href="preview-2.html"><span>Search Terms</span></a></li>
+						<li><a href="contact.php"><span>Site Map</span></a></li>
+						<li><a href="preview-2.php"><span>Search Terms</span></a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>My account</h4>
 						<ul>
-							<li><a href="contact.html">Sign In</a></li>
-							<li><a href="index.html">View Cart</a></li>
+							<li><a href="contact.php">Sign In</a></li>
+							<li><a href="index.php">View Cart</a></li>
 							<li><a href="#">My Wishlist</a></li>
 							<li><a href="#">Track My Order</a></li>
-							<li><a href="faq.html">Help</a></li>
+							<li><a href="faq.php">Help</a></li>
 						</ul>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">

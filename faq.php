@@ -11,9 +11,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <div class="container-fluid">
 	
-	<div class="row border m-2 p-2">
-		<div class="col-12 col-sm-6 col-md-6"><img src="./images/Tra_gop.jpg" alt="tragop"> </div>
-		<div class="col-12s col-sm-6 col-md-6"><img src="./images/Tra_gop2.png" alt="tragop"> </div>
+	<div class="row border ">
+		
+		
+        <div class=" col 12 col-xs-12 col-sm-12 col-md-12"><img src="./images/Tra_gop2.png" alt="tragop" style="width:100%;height:100%;"> </div>
+
 	</div>
 	<div class="row"><h3>Chính sách <strong>trả góp 0%</strong> tại điện máy <strong>Quyết Tiến</strong></h3></div>
 

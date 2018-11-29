@@ -20,7 +20,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <li>Khiếu nại(24/7)<strong>; 1111.3333</strong></li>
 <li>Hỗ trợ khách hàng(24/7)<strong>: 1111.4444</strong></li>
 </ul>
-<img src="./images/123.jpg" height="500" width="1300">
+<img src="./images/644710.png" height="500" width="1300">
 <?php
 	include('footer.php')
 ?>

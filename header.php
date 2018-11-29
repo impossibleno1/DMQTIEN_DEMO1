@@ -11,6 +11,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <title>Free Smart Store Website Template | Home :: w3layouts</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <link href="css/menu.css" rel="stylesheet" type="text/css" media="all"/>
 <script src="js/jquery.min.js"></script>
@@ -241,7 +242,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</div>
 				</ul>
 			</li>		
-			<li><a href="faq.php">Trả góp</a>
+			<li><a href="Promote.html">Trả góp</a>
 				<ul class="sub-menu list-unstyled sub-menu3">
 				  <div class="navg-drop-main">
 					<div class="nav-drop"> 
